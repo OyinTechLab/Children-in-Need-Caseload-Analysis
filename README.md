@@ -58,15 +58,7 @@ See [`docs/methodology.md`](docs/Methodology.docx) for the full data-cleaning an
 └── data/        → data source and privacy notes
 ```
 
-## What I'd Do Next
 
-- Add year-on-year trend analysis once multi-year census extracts are available
-- Investigate the drivers behind the 57% "Need Not Recorded" rate — likely a data-entry/process issue worth flagging to source teams
-- Follow up specifically on the nationality field, where "Not Stated" outweighs every recorded category combined
-- Build a drill-through page from district → individual need category for caseworker-level detail
-
----
-
-**Author**: Alabi Maryam Oyinkansola
+**Data Analyst**: Alabi Maryam Oyinkansola
 **Tools**: Power BI · Excel · DAX
 **Domain**: UK Children's Social Care / DfE CIN Census
