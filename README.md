@@ -46,7 +46,7 @@ Local authorities use CIN census data to plan safeguarding resources, monitor ca
 - **Privacy**: small-cell suppression applied to any breakdown cell of 5 or fewer individuals
 - **Excel**: PivotTables, INDEX/MATCH, COUNTIFS used in the pre-cleaning and validation stage before load into Power BI
 
-See [`docs/methodology.md`](docs/methodology.md) for the full data-cleaning and DAX methodology, including exact measure formulas.
+See [`docs/methodology.md`](docs/Methodology.docx) for the full data-cleaning and DAX methodology, including exact measure formulas.
 
 ## Files in This Repo
 
